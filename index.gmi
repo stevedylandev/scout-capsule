@@ -1,3 +1,16 @@
-# Welcome to Scout
+# Scout - an iOS Gemini Client
 
-You're now exploring Gemini, a slower corner of the internet
+=> gemini://scout.gemi.software/assets/screenshot.png Screenshot
+
+Scout is a native iOS client for the Gemini protocol; a lightweight, text-first alternative to the modern web built around simplicity, privacy, and content. No ads. No trackers. No JavaScript. Just pages written by real people, served fast.
+
+Features
+* Browse any Gemini capsule with full text/gemini rendering
+* Navigate with back/forward history and bookmarks
+* Handle input prompts for interactive capsules
+* TOFU (Trust On First Use) certificate verification for privacy-respecting security
+* Client certificate support for authenticated capsules
+* Media viewing and saving support
+* Clean and minimal styles 
+
+Coming soon
