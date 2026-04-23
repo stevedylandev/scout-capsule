@@ -13,6 +13,6 @@ Features
 * Media viewing and saving support
 * Clean and minimal styles 
 
-Coming soon
+=> https://apps.apple.com/us/app/scout-smallnet-browser/id6762810515 Download
 
 Source: ssh git.stevedylan.dev -t Scout
