@@ -1,0 +1,36 @@
+Privacy Policy
+
+Effective Date: April 22, 2026
+
+Overview
+
+Scout is a Gemini protocol browser for iOS. It operates entirely on your device. No data is collected, transmitted to us, or stored on any server.
+
+Data Collection
+
+We collect nothing. Scout does not collect, store, transmit, or share any personal information.
+
+Network Activity
+
+Scout connects directly from your device to Gemini servers you choose to visit. These connections are made solely to retrieve content at your request. We have no visibility into your
+browsing activity.
+
+Certificate Storage
+
+Scout stores TLS certificate fingerprints locally on your device to support Trust On First Use (TOFU) verification. This data never leaves your device.
+
+Third Parties
+
+Scout contains no third-party SDKs, analytics, advertising, or crash reporting tools.
+
+Children's Privacy
+
+Scout does not collect data from anyone.
+
+Changes
+
+If this policy changes, the updated version will be posted here with a new effective date.
+
+Contact
+
+Questions: contact@stevedylan.dev
